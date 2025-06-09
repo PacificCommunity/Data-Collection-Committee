@@ -30,7 +30,7 @@ The following table tracks the history of this document and major releases. This
 
 ## 2.	Purpose
 
-This document serves to provide a set of operating procedures in handling and processing electronically reported observer data using the OLLO app and the e-debriefing module in Tufman2. 
+This document provides a set of operating procedures in handling and processing electronically reported observer data using the OLLO app and the e-debriefing module in Tufman2. 
 
 ## 3.	Scope and background
 
